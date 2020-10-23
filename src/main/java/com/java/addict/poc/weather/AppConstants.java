@@ -17,7 +17,7 @@ public class AppConstants {
 	
 	// rest API constants
 	final static String URL_API = "http://api.openweathermap.org/data/2.5/weather/";
-	final static String API_KEY = "eb8b1a9405e659b2ffc78f0a520b1a46";
+	final static String API_KEY = "PLEASE_CREATE_YOUR_OWN_API_KEY_AND_INSERT_HERE";
 	
 	// UI label constants
 	final static String BY_CITY = "by_city";
